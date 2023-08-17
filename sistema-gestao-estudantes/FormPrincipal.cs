@@ -28,5 +28,10 @@ namespace sistema_gestao_estudantes
             FormListaDeEstudantes listaDeEstudantes = new FormListaDeEstudantes();
             listaDeEstudantes.Show(this);
         }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
