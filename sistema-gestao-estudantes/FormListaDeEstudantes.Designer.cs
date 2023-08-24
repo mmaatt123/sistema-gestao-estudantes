@@ -46,7 +46,7 @@
             // 
             // buttonAtualizar
             // 
-            this.buttonAtualizar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.buttonAtualizar.BackColor = System.Drawing.Color.White;
             this.buttonAtualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonAtualizar.Location = new System.Drawing.Point(13, 370);
             this.buttonAtualizar.Name = "buttonAtualizar";
@@ -60,7 +60,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Lime;
+            this.BackColor = System.Drawing.Color.DarkSlateGray;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.buttonAtualizar);
             this.Controls.Add(this.dataGridViewLista);
